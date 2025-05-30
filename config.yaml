@@ -1,0 +1,12 @@
+binance:
+  api_key: "LudkW1Rf8Xa6np0kPtHz6bkAZImTJkpvfYiCirR4Zap8jqTXTJQI4rpj9j0BoERx"
+  api_secret: "kcl1VD2u4USOLCMxjWYD86EzkHQaYkwy6ZuGjnPkY6JD8ogDchrcevw9hCXtRhY6"
+  testnet: false  # Eğer testnet kullanacaksanız true yapın
+
+telegram:
+  bot_token: "7153738704:AAGqqkB2r5LD8JUxiYS_bXqT9Y8ibb3gEdU"
+  chat_id: 6810710245
+
+# İsteğe bağlı ek parametreler:
+# auto_scan_interval: 180  # Otomatik tarama için (saniye cinsinden, ör: 3 dakika)
+# notify_patterns: ["🔥"]  # Yalnızca bu içeriği içeren sinyaller bildirilsin
